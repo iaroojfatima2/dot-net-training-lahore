@@ -65,7 +65,8 @@ Choosing the right institute makes learning more effective and career-focused.
 
 Selecting from the top .NET training institutes in Lahore for developers is a smart decision in 2026. With strong demand, modern tools, affordable training, and excellent career opportunities, .NET training helps developers build a successful future in the IT industry.
 For professional .NET training and career guidance in Lahore
-https://www.pnytrainings.com/asp-net-course-lahore
 
 For more details about professional .NET training and career guidance, visit:
-https://yourwebsite.com
+https://www.pnytrainings.com/asp-net-course-lahore
+
+
